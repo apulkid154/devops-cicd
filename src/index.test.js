@@ -16,8 +16,8 @@ test("Should subtract two numbers", () => {
 });
 
 // Test Case 3 (Multiplication)
-test("Should multipy two numbers", () => {
-  expect(multipy(25, 2)).toBe(50);
+test("Should multiply two numbers", () => {
+  expect(multiply(25, 2)).toBe(50);
 });
 
 // Test Case 4 (Division)

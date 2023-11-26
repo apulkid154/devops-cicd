@@ -2,8 +2,8 @@
  * Multiplication
  */
 
-function multipy(firstNum, secondNum) {
+function multiply(firstNum, secondNum) {
   return firstNum * secondNum;
 }
 
-module.exports = multipy
+module.exports = multiply
